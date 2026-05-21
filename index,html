@@ -92,7 +92,7 @@ Esperando inicio...
 <script>
 
 const WEBAPP =
-'https://script.google.com/macros/s/TU_URL_WEBAPP/exec';
+'https://script.google.com/macros/s/AKfycbx1reFL0ub9g64jO2tLUAvV8VYEY0GidnhSEoszvOoAaWfm55X9QUWWXqePrZ8EEEbQ/exec';
 
 let scanner;
 
